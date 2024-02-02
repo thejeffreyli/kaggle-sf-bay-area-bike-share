@@ -6,6 +6,8 @@ Last Updated: December 12, 2022
 
 ![Map](/img/map.png)
 
+Dataset: [SF Bay Area Bike Share](https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share)
+
 ## Motivation
 
 In this project, we leverage data analytics tools and machine learning algorithms to understand the San Francisco Bay Area Bike Share data provided by Kaggle. Since its launch in 2013, the Bay Wheels Bike Share Program has provided affordable and accessible transportation across the San Francisco Bay Area. The regional bicycle sharing system partners with local government agencies and corporations like Lyft and currently has over 7000 traditional and electric bicycles at 550 stations.
