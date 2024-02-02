@@ -1,6 +1,10 @@
 # SF Bay Area Bike Share Kaggle Group Project
+
 By Jeffrey Li, Shriya Karam, Sindhura Mente
+
 Last Updated: December 12, 2022
+
+[Map](/img/map.png)
 
 ## Motivation
 
